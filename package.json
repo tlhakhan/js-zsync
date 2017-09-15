@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/tlhakhan/js-zsync#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "compression": "^1.7.0",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "node-cache": "^4.1.1"
   }
 }
